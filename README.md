@@ -9,7 +9,7 @@ Usage:`python human_blur.py --source *SOURCE_DIRECTORY* --output *OUTPUT_DIRECTO
 
 Example:`python human_blur.py --source ./inference/images/ --weights yolov5x.pt --conf 0.3`
 
-**Below** is the discription of YOLOv5 from [the original repository](https://github.com/ultralytics/yolov5).
+**Below is the discription of YOLOv5 from [the original repository](https://github.com/ultralytics/yolov5).**
 
 This repository represents Ultralytics open-source research into future object detection methods, and incorporates our lessons learned and best practices evolved over training thousands of models on custom client datasets with our previous YOLO repository https://github.com/ultralytics/yolov3. **All code and models are under active development, and are subject to modification or deletion without notice.** Use at your own risk.
 
